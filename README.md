@@ -1,2 +1,1 @@
-# performance-bugs
-re-implemented bugs used in LDoctor paper
+Re-implemented performance bugs used in LDoctor paper. 
